@@ -70,13 +70,22 @@ IPL Data_Analytics Project/
 The Power BI report (`IPL_Project.pbix`) includes the following pages, each backed by dedicated queries in `Data Queries.sql`:
 
 1. **Season Analysis** — season winners, runners-up, total matches/runs/sixes/fours/wickets, Orange & Purple Cap winners, best strike rate & economy
+![Season Dashboard](Dashboard%20Images/Season_Dashboard.png)
 
+2. **Batting Analysis** — top run scorers, strike rates, sixes/fours, centuries/half-centuries, batting averages, runs distribution by team
+![Batting Dashboard](Dashboard%20Images/Batting_Dashboard.png)
 
+3. **Bowling Analysis** — top wicket takers, best economy/average/strike rate, dot ball leaders
+![Bowling Dashboard](Dashboard%20Images/Bowling_Dashboard.png)
 
-3. **Batting Analysis** — top run scorers, strike rates, sixes/fours, centuries/half-centuries, batting averages, runs distribution by team
-4. **Bowling Analysis** — top wicket takers, best economy/average/strike rate, dot ball leaders
-5. **Team Analysis** — wins/losses, win %, chasing vs. batting-first win %, top run scorers per team
-6. **Venue Analysis** — most wins per venue, chasing vs. defending success, highest team totals, sixes hit per venue
+4. **Team Analysis** — wins/losses, win %, chasing vs. batting-first win %, top run scorers per team
+![Team Dashboard](Dashboard%20Images/Team_Dashboard.png)
+
+5. **Venue Analysis** — most wins per venue, chasing vs. defending success, highest team totals, sixes hit per venue
+![Venue Dashboard](Dashboard%20Images/Venue_Dashboard.png)
+
+5. **Player Analysis** — matches, runs, strike-rate, centuries, half-centuries, wickets, economy, batting/bowling average, Highest score
+![Player Dashboard](Dashboard%20Images/Player_Dashboard.png)
 
 ## 🚀 Getting Started
 
@@ -125,7 +134,8 @@ The Power BI report (`IPL_Project.pbix`) includes the following pages, each back
 - Batting and bowling leaderboards across IPL history
 - Team performance trends, including chasing vs. defending success rates
 - Venue-specific scoring and winning patterns
-
+- Player-overall stats in IPL 
+  
 ## 📄 License
 
 This project is intended for educational and portfolio purposes. IPL data is sourced from publicly available datasets.
